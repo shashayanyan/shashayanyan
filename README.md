@@ -22,19 +22,29 @@ I enjoy working close to the metal as much as building real-world applications �
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Java, C, Python, JavaScript
-- **Frontend:** React, Angular
-- **Systems:** Distributed Computing, Memory management, OS concepts, embedded basics (bare metal & lora)
-- **Tools:** Git, Linux, Docker, Makefile, debugging with gdb
+- **Languages:** C, Python, JavaScript
+- **Frontend:** React
+- **Systems:** Memory management, OS concepts
+- **Data:** Data processing, scripting, basic data pipelines
+- **Tools:** Git, Linux, Makefile, debugging with gdb
+
+---
+
+## 📊 Data & Engineering Interests
+
+- Data processing and transformation (Python)
+- Building simple data pipelines
+- Writing efficient code for handling large datasets
+- Combining backend systems with data workflows
 
 ---
 
 ## 🚀 Featured Projects
 
+---
 
 ## 🎯 What I'm focused on now
 
-- Writing efficient and robust software
 - Deepening systems-level knowledge
 - Building complete, production-ready applications
 
