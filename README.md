@@ -22,10 +22,10 @@ I work across the stack — from distributed data processing with Spark to backe
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Python, SQL, C, JavaScript
+- **Languages:** Python, SQL, C, Java, JavaScript
 - **Data Engineering:** PySpark, Apache Spark (RDD), Databricks, Delta Lake
 - **Cloud & DevOps:** AWS (S3), GCP (GKE), Docker, Kubernetes, CI/CD (GitLab)
-- **Frontend:** React
+- **Frontend:** React, Angular
 - **Systems:** Memory management, OS concepts
 - **Tools:** Linux, Git, Bash, Makefile
 
